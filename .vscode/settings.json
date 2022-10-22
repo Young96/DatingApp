@@ -1,0 +1,5 @@
+{
+    "angular.enable-strict-mode-prompt": true,
+    "angular.forceStrictTemplates": false,
+    "angular.suggest.includeAutomaticOptionalChainCompletions": true
+}
